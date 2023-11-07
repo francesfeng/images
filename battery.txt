@@ -1,0 +1,110 @@
+Joris Franck 03:07 PM 
+any expectations on sodium-ion batteries in EVs?
+Phoebe O'Hara 03:21 PM 
+Hi Joris, very minimal, mainly by Chinese OEMs (BYD, GAC). We were supposed to see 4 models with sodium ion coming to market this year but these have all been delayed due to the lack of competitiveness with lithium prices. We don't expect sodium to make notable in-roads in EVs as a result of this lack of competitiveness in terms of price, but also the weight of sodium compared to lithium batteries, which makes it even more difficult to use in vehicles.
+Claas Hoffend 03:13 PM  
+Does Fastmarkets have a regional battery chemistry share?
+Julia Harty 03:17 PM 
+Hi Claas, I can email this to you after the webinar. Thanks, Julia
+Mazahir Mammadli 03:15 PM  
+A lot of carmakers have announced to add LFP to their mix in entry-level / mass market models. How do I renconcile that with your expectation that NMC will remain the dominant chemistry in EVs by 2030s?
+Phoebe O'Hara 03:26 PM 
+Hi Mazahir - you're right, OEMs have announced LFP cells being included in their vehicles e.g. Ford, VW. However, when we look at the bulk of EV production being done in Europe and the US, the vast majority of these models are all being introduced with NCM cells. Our engagements with OEMs also reinforce this view, with many telling us that NCM will remain their dominant chemistry due to consumers prioritisation of range and a sluggish development of charging infrastructure, particularly in the US. That said, we are bullish on LFP adoption in EVs and will showcase this in our chemistry outlook once more OEMs have made commitments to introducing LFP in their models.
+Anonymous Attendee 03:16 PM  
+@ Julia, Yes it is now visible
+Sait UYSAL 03:20 PM  
+What about LMFP chemictry?
+Phoebe O'Hara 03:27 PM 
+We include LMFP in our LFP outlook, however, its current role is minimal as we are yet to see it being introduced extensively in the market. Once we see this happen, we will include it as a separate category in our forecast.
+MOHNISH MAKWANA 03:21 PM  
+Does Fastmarkets have historical price trends of lithium-ion batteries for major regions of the World ?
+Muthu Krishna 03:28 PM 
+Hi Mohnish, I will partly cover this later on in the webinar.
+Sven van Helten 03:23 PM  
+Which other emerging technologies do you expect to emerge before 2030? Any significant results from current research into technologies like solid-state batteries, silicon anodes, or even metal-air batteries?
+This question has been answered live
+David Mostue 03:25 PM  
+What do you hear about battery material suppliers and the pricing they might receive for IRA compliant supply vs material that will head into the Chinese market?
+Justin Yang 03:51 PM 
+What we've heard is that there are people in the market asking for an IRA and more broadly speaking ESG premiums, however we haven't heard of major consumers accepting any sort of premiums so far. Market participants still see a lot of uncertainty on policies such as the IRA and the CRMA in Europe therefore it’s hard for participants to accept differentials for these credentials. In the coming years however, as market participants become more familiar with these policies and what they mean, and as capacity in the west builds up, there is an expectation from some that products with these credentials can indeed differentiate.
+Reiner HAUS 03:27 PM  
+Sorry, just missed the first 20 min - can you send me the presentation?
+Fastmarkets Webinars 03:29 PM 
+Yes - we will share the slides and the recording after the webinar
+Charles McQueen 03:28 PM  
+Sorry if this was addressed in the intro, but will a replay of the webinar be available for viewing, again, after the webinar concludes today?
+Phoebe O'Hara 03:28 PM 
+There will be a recording provided as well as the deck!
+Anonymous Attendee 03:29 PM  
+Can you please talk about how you calculated the MHP price of 14,000 USD? based on the Ni-Co content and the payables the number don't quite add up. Thanks
+This question has been answered live
+Justin Yang 03:41 PM 
+Regarding MHP payables and the outright price, the outright price we publish is a separate assessment from the payable market, not a direct calculation. An assessment means that the reporter covering looks at the data for both a payable basis and an outright basis separately. 
+That said, activity on the outright price can influence how people do business on a payable basis and vice versa, which can also result in the two mechanisms converging as well.
+If you’d like, I can walk through more in-depth on how our assessment pricing mechanism works. Please email me and Callum Perry at justin.yang@fastmarkets.com and callum.perry@fastmarkets.com.
+Rohit Garg 03:30 PM  
+Manganese carbonate Battery grade prices we didnt find. When it will be available and what will be the frequency of update(Daily/weekly...)??
+Ghislain Van Damme 03:30 PM  
+Have you included Ni volumes from recycling in your calculations? What level ( =%) do you expect providing from recycling?
+Julia Harty 03:34 PM 
+Hi Ghislain, our Q2 estimate was for 1% of nickel production to come from battery recycling in 2023. Our Q3 estimate will be out soon so please connect with me on LinkedIn or by email if you want the new number. Thanks, Julia
+Kien Huynh 03:30 PM  
+Do you see a differentiated battery market for luxury verhicles vs entry-level/mass market models?
+Phoebe O'Hara would like to answer this question live.
+Pawandeep Singh 03:32 PM  
+Is it feasible to employ recycled graphite from batteries in the production of new cells?
+Julia Harty 03:40 PM 
+Hi Pawandeep, we've heard that the spherical structure of the graphite is damanged during battery recycling meaning it is no longer battery grade but often goes to the steel making industry as a fuel and reductant. Thanks, Julia
+Henri Raes 03:32 PM  
+Which battery chemistry will be mainly used in the coming years for e-buses?
+Phoebe O'Hara 03:42 PM 
+Hi Henri - LFP in the majority due to low cost!
+Anonymous Attendee 03:32 PM  
+Does Nickel and cobalt sulfate prices follow the same trend as Nickel and cobalt metal prices?
+what is the market situation for Iron phosphate?
+This question has been answered live
+Zara Fennell 03:35 PM  
+Do you see a risk in other materials for export controls to manufacturers outside of China? Eg, most DRC cobalt is processed in Chinese-owned facilites
+Anonymous Attendee 03:36 PM  
+Does Fastmarkets expect further export restrictions on battery raw materials from China?
+scott Farnham 03:37 PM  
+Do you have any price forecast for CSPG graphite?
+Amy Bennett 03:41 PM 
+We have price forecasts for uSPG, and are looking to add cSPG price forecasts to our offerings in 2024
+Alex Riazanov 03:39 PM  
+Looking forward, how do you see the split between natural graphite and synthetic graphite in anodes evolving. Will natural graphite increase in share relative to synthetic graphite? Do you see non-graphite anodes gaining a foothold (silicon, lithium metal)?
+Amy Bennett would like to answer this question live.
+Anonymous Attendee 03:41 PM  
+What is your view on new, non-HF spherical graphite processing techniques? Will they live up to the hype in terms of recovery, ESG, cost, etc?
+Amy Bennett 03:48 PM 
+These processing techniques have the potential to improve ESG credentials, but our concerns are primarily centered on costs
+Zara Fennell 03:41 PM  
+Jumping back to the earlier slide on battery application demand, do you foresee the difficulties regulatory complications of connecting to the grid as a hurdle for BESS demand?
+Phoebe O'Hara 03:44 PM 
+Hi Zara, hope you're well. Definitely - we've seen a lack of transformers and long interconnection wait times become key barriers to ESS adoption in the US and Europe. We're seeing governments and regulators alter their policies in order to ease issues with interconnection, but we will continue to see this as an issue given the time that it takes for grids to modernise their policies and balance their grid mix.
+Ignacio Parraguez 03:41 PM  
+Marginal cost curve of lithium companies? Both Hydroxene and carbonate? And the mean cost curve?
+Chandler Wu 03:47 PM 
+Marginal cost is around 160,000 RMB/t for LCE as integrated producers.
+Dale Brezinski 03:43 PM  
+The James Bay region in Quebec Canada is becoming a major supplier of Lithium in North America.  Is this view in the radar of Fastmarkets.
+Thomas Bibienne 03:45 PM  
+from the industry, do you hear that autoOEM would be ready to pay a premium to source sustainably-mined raw materials, along with ex-China produced cells? Or would they have no choice but to get what they can get?
+Justin Yang 03:51 PM 
+What we've heard is that there are people in the market asking for an IRA and more broadly speaking, ESG premiums, however we haven't heard of major consumers accepting any sort of premiums so far. Market participants still see a lot of uncertainty on policies such as the IRA and the CRMA in Europe therefore it’s hard for participants to accept differentials for these credentials. In the coming years however, as market participants become more familiar with these policies and what they mean, and as capacity in the west builds up, there is an expectation from some that products with these credentials can indeed differentiate.
+David Mostue 03:48 PM  
+Muthu, are your price assumptions for cell costs in the US based upon higher prices for IRA compliant supply from FTA countries?
+Muthu Krishna 03:51 PM 
+Hi David, not yet - the model relies on our raw material prices from China. Once we have more data on premiums on material prices, we will be modelling these costs for sure.
+Anonymous Attendee 03:48 PM  
+What cell to pack ratios are assumed for LFP vs NCM?
+Anonymous Attendee 03:48 PM  
+Is the battery supply measured in gross battery tonnes or at the cell level?
+Thomas Bibienne 03:49 PM  
+what scrap rate from gigactories are you considering for production scrap?
+Sven van Helten 03:49 PM  
+With potentially increasing graphite prices and increasing governmental attention being focused on creating ex China supply, do you expect more investment in the creation of new graphite production and processing factories? What would you expect the time frame to be? Are we looking at 2024 or more in the direction fo 2030?
+Geza Szakacs 03:51 PM  
+Are you going to share the presentation within attendees?
+David Mostue 03:51 PM  
+Muthu,
